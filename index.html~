@@ -1,0 +1,422 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Parafia św. Floriana w Brwinowie</title>
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+<link rel="stylesheet" href="css/lightbox.css">
+<!-- Custom Theme files -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Greenery Responsive Web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible Web template,
+	Smartphone Compatible Web template, free Webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola Web design" />
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //Custom Theme files -->
+<!-- js -->
+<script src="js/jquery-1.11.1.min.js"></script>
+   <script src="js/bootstrap.js"></script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85507760-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+$( function() {
+    $("#dialog").dialog();
+  } );
+</script>
+
+<!-- //js -->
+<!-- banner-text Slider starts Here -->
+		<script src="js/responsiveslides.min.js"></script>
+		 <script>
+			// You can also use "$(window).load(function() {"
+				$(function () {
+				// Slideshow 3
+					$("#slider3").responsiveSlides({
+					auto: true,
+					pager:true,
+					nav:true,
+					speed: 500,
+					namespace: "callbacks",
+					before: function () {
+					$('.events').append("<li>before event fired.</li>");
+					},
+					after: function () {
+						$('.events').append("<li>after event fired.</li>");
+					}
+				});
+			});
+		</script>
+		<!--//End-slider-script -->
+<!-- animation-effect -->
+<link href="css/animate.min.css" rel="stylesheet">
+<script src="js/wow.min.js"></script>
+<script>
+ new WOW().init();
+</script>
+
+</head>
+<body>
+<!--header-->
+	<div class="header">
+	</div>
+<!--//header-->
+<!--navigation-->
+		<div class="top-nav">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<div class="container-fluid">
+					<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<h1><a class="navbar-brand animated wow fadeInLeft" data-wow-delay=".5s" href="index.html">Parafia św. Floriana w Brwinowie</a></h1>
+						</div>
+						<div class="navbar-right">
+						<div class="logo-box"><img src="images/logo.png" alt="logo"></div>
+						</div>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-left animated wow fadeInRight" data-wow-delay=".5s">
+							<li class="active"><a href="index.html">Główna</a></li>
+							<li><a href="historia.html">Historia</a></li>
+							<li><a href="kancelaria.html">Kancelaria</a></li>
+							<li><a href="grupy.html">Grupy</a></li>
+							<li><a href="ogloszenia.html">Ogłoszenia</a></li>
+							<li><a href="kontakt.html">Kontakt</a></li>
+						</ul>
+
+							   <!-- <form class="navbar-form navbar-right" action="#" method="post">
+								<div class="form-group">
+
+									<input type="text" class="form-control" placeholder="Search">
+									<button type="submit" class="btn btn-default" aria-label="Left Align">
+										<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+									</button>
+                    <a class="more" href="singlepage.html"> Wyślij</a>
+								</div>
+							</form>-->
+					</div><!-- /.navbar-collapse -->
+				</div><!-- /.container-fluid -->
+			</nav>
+			</div>
+		</div>
+<!--navigation-->
+
+<!--banner-->
+<div id="dialog" style="background-image: url(images/7.jpg)">
+
+</div>
+<!--banner-->
+
+<!--banner-->
+	<div class="banner">
+		<div class="banner-title animated wow zoomIn" data-wow-delay=".9s">
+			<div class="container">
+				<div  id="top" class="callbacks_container">
+					<ul class="rslides" id="slider3">
+					<li><div class="banner-text">
+									<h2>Kurs<br>przedmałżeński</h2>
+								<p>29 września rozpoczynamy nauki.<br>
+								Obowiązują zapisy. Info na plakacie.</p>
+							</div></li>
+					<li><div class="banner-text">
+									<h2>Wraca<br>Trydent</h2>
+								<p>Po wakacjach wznawiamy msze w rycie trydenckim.<br>
+								 Odprawiane są w każdą Niedzielę o godz. 14.30</p>
+							</div></li>
+												<li><div class="banner-text">
+								<h2>Remont<br>Dachu</h2>
+								<p>Numer konta parafialnego<br>
+								 na podstronie <a href="kontakt.html"><font color="yellow">kontakty</font></a>
+								</p>
+							</div>
+						</li>					
+						
+								
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--//banner-->
+<!--welcome-->
+	<div class="welcome">
+		<div class="container">
+
+		<div class="col-md-6 wel-right animated wow fadeInRight" data-wow-delay=".5s">
+				<div class="wel-tp1">
+					<h3>Msze Święte</h3>
+					<h4>Porządek Mszy w  parafii:</h4>
+					<p>Niedziela i Święta:      7.00, 9.00, 10.30, 11.45, 13.00, 14.30 (trydencka), 18.00</p>
+					<p>Msze w tygodniu:      7.00, 8.00, 18.00</p><br>
+				</div>
+			</div>
+
+		<!--	<div class="col-md-3 wel-left animated wow fadeInLeft" data-wow-delay=".5s">
+				<i class="hovicon effect-2 sub-a"><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span></i>
+				<h4>Sit amet</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.</p>
+			</div>
+			<div class="col-md-3 wel-left animated wow fadeInUp animated" data-wow-delay=".5s">
+			<i class="hovicon effect-2 sub-a"><span class="glyphicon glyphicon-grain" aria-hidden="true"></span></i>
+				<h4>Ipsum dolor</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.</p>
+			</div>-->
+			<div class="col-md-6 wel-right animated wow fadeInRight" data-wow-delay=".5s">
+				<div class="wel-tp">
+					<h3>Kancelaria</h3>
+					<h4>Godziny otwarcia </h4>
+					<p>Poniedziałek - Piątek  :   9.00 - 10.00 i 16.30-17.30. <br>Soboty  :   9.00 - 10.00.<br>
+					 W niedzielę i święta kościelne jest zamknięta.</p>
+				</div>
+			</div>
+				<div class="clearfix"></div>
+		</div>
+	</div>
+<!--//welcome-->
+<!--primary-->
+	<!--<div class="primary">
+		<div class="container">
+			<div class="col-md-4 primary-left animated wow fadeInLeft" data-wow-delay=".5s">
+				<div class="primar-tp">
+				<span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+					<h3>Primary Contacts</h3>
+					<address>
+						795 Folsom Ave, Suite 600<br>
+						San Francisco, CA 94107<br>
+						<abbr title="Phone">P :</abbr> (123) 456-7890
+					</address>
+					<p class="mai">Email : <a class="email-link" href="mailto:info@example.com">Example.com</a></p>
+				</div>
+			</div>
+			<div class="col-md-4 primary-left animated wow fadeInUp animated" data-wow-delay=".5s">
+			<div class="history-grid-image">
+				<img src="images/5.jpg" class="img-responsive zoom-img" alt="">
+			</div>
+				<h4>Proin ultricies</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisc elit.Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies</p>
+			</div>
+			<div class="col-md-4 primary-left animated wow fadeInRight" data-wow-delay=".5s">
+				<div class="history-grid-image">
+					<img src="images/10.jpg" class="img-responsive zoom-img" alt="">
+				</div>
+				<h4>Proin ultricies</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisc elit.Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies</p>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>-->
+<!--//primary-->
+<!--news-->
+<div class="news">
+	<div class="container">
+		<div class="news-main">
+
+			 	<h4> Wydarzenia</h4>
+			 	 <div class="col-md-4 news-grid animated wow fadeInUp animated" data-wow-delay=".5s">
+			 	 	<h6>26.08.2018</h6>
+			 	 	 <h5>Uroczystość M.B. Częstochowskiej</h5>
+			 	 	 <p>Szczególne miejsce w naszym sercu zajmuje Jasna Góra gdzie znajduje się słynący
+			 	 	 łaskami obraz Matki Bożej. Polecajmy Jej sprawy naszej Ojczyzny ziemskiej</p>
+			 	 	<!-- <a href="singlepage.html">Read More</a>-->
+			 	 </div>
+			 	 <div class="col-md-4 news-grid animated wow fadeInUp animated" data-wow-delay=".5s">
+			 	 	<h6>02.09.2018</h6>
+			 	 	 <h5>Początek roku szkolnego</h5>
+			 	 	 <p>W poniedziałek 3 września dzieci i młodzeż zaczyna kolejny rok nauki. W niedzielę 2 IX
+			 	 	 o godz. 11.45 w naszym kościele będziemy polecać Bogu młode pokolenie Polaków.</p>
+			 	 	<!-- <a href="singlepage.html">Read More</a>-->
+			 	 </div>
+			 	<div class="col-md-4 news-grid animated wow fadeInUp animated" data-wow-delay=".5s">
+			 	 	<h6>08.09.2018</h6>
+			 	 	 <h5>Urodziny Matki Bożej</h5>
+			 	 	 <p>W ostatnich latach to święto trochę zapomniane. Pamiętajmy aby uczcić tą, która zrodziła
+			 	 	  i wychowywała Zbawiciela Świata</p>
+			 	 	<!-- <a href="singlepage.html">Read More</a>-->
+			 	 </div>
+			 	 
+			  <div class="clearfix"> </div>
+
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!--news-->
+<!--popular-->
+	<div class="popular">
+		<div class="container">
+			<h3>Liturgia Słowa Życia</h3>
+			<div class="col-md-5 popular-left animated wow fadeInLeft" data-wow-delay=".5s">
+				<!--<div class="history-grid-image">
+					<img src="images/6.jpg" class="img-responsive" alt="">
+				</div>-->
+				<div class="popular-grids">
+					<div class="col-md-4 popular-text">
+						<img src="images/1.jpg" class="img-responsive" alt="">
+					</div>
+					<div class="col-md-8 popular-text pplr-right cl-effect-1">
+						<h4>Z Ewangelii w.g. św. Marka</h4>
+						<br><b>Zapytali Go więc faryzeusze i uczeni w Piśmie: «Dlaczego Twoi uczniowie nie postępują według tradycji starszych, lecz jedzą nieczystymi rękami?»
+Odpowiedział im: «Słusznie prorok Izajasz powiedział o was, obłudnikach, jak jest napisane: „Ten lud czci Mnie wargami, lecz sercem swym daleko jest ode Mnie. 
+Ale czci Mnie na próżno, ucząc zasad podanych przez ludzi”. Uchyliliście przykazanie Boże, a trzymacie się ludzkiej tradycji».
+Potem przywołał znowu tłum do siebie i rzekł do niego: «Słuchajcie Mnie, wszyscy, i zrozumcie! Nic nie wchodzi z zewnątrz w człowieka, co mogłoby uczynić 
+go nieczystym; lecz to, co wychodzi z człowieka, to czyni człowieka nieczystym. Z wnętrza bowiem, z serca ludzkiego pochodzą złe myśli, nierząd, kradzieże, zabójstwa,
+ cudzołóstwa, chciwość, przewrotność, podstęp, wyuzdanie, zazdrość, obelgi, pycha, głupota. Całe to zło z wnętrza pochodzi i czyni człowieka nieczystym».
+						</b>
+						<p>7, 8a. 14-15. 21-23</p>
+						
+						<p align="riht"> 
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+			<div class="col-md-7 popular-right animated wow fadeInRight" data-wow-delay=".5s">
+				<!--<div class="popular-grids">
+					<div class="col-md-4 popular-text">
+					<div class="col-md-8 popular-text pplr-right cl-effect-1">
+						<img src="images/1.jpg" class="img-responsive" alt="">
+					</div>
+						<h4>Donec maximus diam quisi</h4>
+						<p> Vivamus erat sapien, euismod non velit at, finibus interdum magna. 
+						Sed vulputate risus sapien consequat posuere enim finibus. </p>
+						<a class="more cl-effect-1" href="singlepage.html">Read More</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>-->
+				<div class="popular-grids">
+					<div class="col-md-4 popular-text">
+						<img src="images/waldek.jpg" class="img-responsive" alt="">
+					</div>
+					<div class="col-md-8 popular-text pplr-right cl-effect-1">
+						<h4>2 września</h4>
+						<p>22 Niedziela zwykła</p>
+						<b>
+           Mojżesz, zbliżając się do Ziemi Obiecanej, udziela ludowi najważniejszych napomnień i wzywa do wierności w wypełnianiu przykazań. 
+           Dzięki ich znajomości i zachowywaniu lud hebrajskich niewolników stawał się narodem Izraela. Był też przygotowywany,
+            by przejąć na własność kraj, za który podejmie odpowiedzialność przed Bogiem. Mojżesz podkreśla: „Nic nie dodacie do tego, co ja wam nakazuję,
+             i nic z tego nie odejmiecie, zachowując nakazy Pana, Boga waszego, które na was nakładam”. Uwydatnia dwa aspekty wierności przykazaniom, 
+             ostrzegając z jednej strony przed ich szkodliwym pomnażaniem i rozbudowywaniem, wskutek czego to, co najbardziej istotne, 
+             staje się niewidoczne i nieważne, a z drugiej – przed redukowaniem i lekceważeniem tego, co w przykazaniach jest naprawdę ważne.
+              Wierność przykazaniom w ich nieskażonej postaci czyni z Izraela prawdziwy lud Bożego wybrania, odmienny od innych ludów i narodów
+               Czytanie z Ewangelii według św. Marka świadczy, że pokusa przekręcania przykazań oraz ich wypaczonej interpretacji nie ominęła tych,
+                którzy wzięli na siebie odpowiedzialność za kształt życia religijnego rodaków, czyli faryzeuszy i uczonych w Piśmie.
+                 Mało tego, swoje podejście i spojrzenie narzucali innym, wymagając od nich tego, o czym nie było mowy w przykazaniach. 
+                 Swoje zarzuty kierowali także przeciw uczniom Jezusa, obwiniając ich o niewierność wobec „tradycji starszych”.
+                  Odpowiedź Jezusa była stanowcza: „Uchyliliście przykazanie Boże, a trzymacie się ludzkiej tradycji”.
+						</b>
+					</b>
+						<p>ks. prof. Waldemar Chrostowski</p></div>
+					 
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+<!--popular-->
+<!--footer-->
+<div class="footer">
+	<div class="container">
+		<div class="footer-main">
+		    <div class="col-md-3 ftr-grid animated wow fadeInLeft" data-wow-delay=".5s">
+		    	<h3>Czy wiesz że,...</h3>
+		    	<p>Instytuty monitorujące wolność religijną podają, że szacunkowo 45 mln chrześcijan zginęło w XX i XXI wieku tylko dlatego, że byli wyznawcami Chrystusa.
+		    	Dzień Solidarności z Kościołem Prześladowanym został ustanowiony decyzją Konferencji Episkopatu Polski podczas 346. 
+		    	Zebrania Plenarnego na Jasnej Górze w 8 listopada 2008 r. Ustalono, że będzie to każda druga niedziela listopada.</p>
+		    </div>
+		    <div class="col-md-3 ftr-grid animated wow fadeInDown animated" data-wow-delay=".5s">
+		    	<h3>Warto odwiedzić</h3>
+		    	<ul>
+		    <li><a href="http://archidiecezja.warszawa.pl" target="index.html">Strona naszej Archidiecezji Warszawskiej</a></li>
+		    		<li><a href="http://wiara.pl" target="index.html">Największy portal poświęcony wierze</a></li>
+		    		<li><a href="http://niedziela.pl" target="index.html">informacje z życia Kościoła z tygodnika Niedziela.</a></li>
+		    		<li><a href="http://www.google.com/maps/place/Parafia+św.+Floriana/@52.1428078,20.7131677,17z/
+		    		data=!3m1!4b1!4m5!3m4!1s0x47194990bd880e51:0x521180b22da75b71!8m2!3d52.1428078!4d20.7153564?hl=pl" target="index.html">Wirtualne zwiedzanie naszego kościoła</a></li>
+		    	</ul>
+		    </div>
+		    <div class="col-md-3 ftr-grid animated wow fadeInUp animated" data-wow-delay=".5s">
+					<h3>Galeria z życia Parafii</h3>
+					<div class="footer-grd">
+
+						<a href="galeria.html">
+
+							<img src="images/foto1.jpg" class="img-responsive" alt=" ">
+						</a>
+					</div>
+					<div class="footer-grd">
+						<a href="galeria.html">
+							<img src="images/foto9.jpg" class="img-responsive" alt=" ">
+						</a>
+					</div>
+					<div class="footer-grd">
+						<a href="galeria.html">
+							<img src="images/foto3.jpg" class="img-responsive" alt=" ">
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+					<div class="footer-grd">
+						<a href="galeria.html">
+							<img src="images/foto4.jpg" class="img-responsive" alt=" ">
+						</a>
+					</div>
+					<div class="footer-grd">
+						<a href="galeria.html">
+							<img src="images/foto5.jpg" class="img-responsive" alt=" ">
+						</a>
+					</div>
+					<div class="footer-grd">
+						<a href="galeria.html">
+							<img src="images/foto6.jpg" class="img-responsive" alt=" ">
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+		    <!--<div class="col-md-3 ftr-grid animated wow fadeInRight" data-wow-delay=".5s">
+		    	<h3>Follow Us</h3>
+		    	<ul>
+		    		<li><a href="#">Facebook</a></li>
+		    		<li><a href="#">Twitter</a></li>
+		    		<li><a href="#">Google +</a></li>
+		    		<li><a href="#">Skype</a></li>
+		    	</ul>
+		    </div>-->
+			<div class="clearfix"> </div>
+		</div>
+		<div class="copy-right">
+			   <p class="animated wow fadeInRight" data-wow-delay=".5s"> 2016 Greenery . All rights reserved | Design by  <a href="http://w3layouts.com/" target="_blank">  W3layouts </a></p>
+				<!--<div class="copy-rights animated wow fadeInLeft" data-wow-delay=".5s">
+						<ul>
+							<li><a href="#"><span class="fa"> </span></a></li>
+							<li><a href="#"><span class="tw"> </span></a></li>
+							<li><a href="#"><span class="g"> </span></a></li>
+						</ul>
+						<div class="clearfix"></div>
+				 </div>-->
+		  </div>
+	</div>
+</div>
+<!--footer-->
+</body>
+</html>
